@@ -7,3 +7,4 @@ adding some more text
 and creating a conflict in line 5
 and a line edit in 4
 
+now lets add some more text
